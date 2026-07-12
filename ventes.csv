@@ -1,0 +1,13 @@
+id,produit,categorie,ville,quantite,prix_unitaire,vendeur,depense
+1,Téléphone Samsung,Electronique,Cotonou,3,85000,Koffi,255000
+2,Sac de riz 25kg,Alimentaire,Parakou,10,12000,Aïcha,120000
+3,Laptop HP,Electronique,Abomey,1,250000,Brice,250000
+4,Huile 5L,Alimentaire,Cotonou,25,8000,Koffi,200000
+5,Casque Sony,Electronique,Bohicon,4,35000,Fatou,140000
+6,Sucre 10kg,Alimentaire,Parakou,15,6000,Moussa,90000
+7,Tablette Samsung,Electronique,Cotonou,2,120000,Aïcha,240000
+8,Farine 25kg,Alimentaire,Abomey,8,9500,Brice,76000
+9,iPhone 14,Electronique,Cotonou,1,450000,Koffi,450000
+10,Lait en poudre,Alimentaire,Bohicon,20,7500,Fatou,150000
+11,Télévision LG,Electronique,Parakou,2,180000,Moussa,360000
+12,Café 1kg,Alimentaire,Cotonou,30,4500,Koffi,135000

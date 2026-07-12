@@ -1,0 +1,18 @@
+=== RAPPORT DE VENTES === 
+Date :11/07/2026 
+Nombre de transaction : 12 
+chiffre d'affaire : 2466000 FCFA 
+=== PAR VILLE === 
+1. Cotonou : 1280000 FCFA 
+2. Parakou : 570000 FCFA 
+3. Abomey : 326000 FCFA 
+4. Bohicon : 290000 FCFA 
+=== PAR CATEGORIE === 
+Electronique : 1695000 FCFA 
+Alimentaire : 771000 FCFA 
+=== MEILLEUR VENDEUR === 
+Koffi : 1040000 FCFA 
+=== TOP 3 TRANSACTION === 
+1 . Sucre 10kg - 90000 
+2 . Farine 25kg - 76000 
+3 . iPhone 14 - 450000 
